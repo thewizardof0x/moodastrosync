@@ -10,7 +10,7 @@ A web app that collects horoscope data (email, sign, mood) and sends it to Make.
 
 2. **Set environment variable:**
    - In Vercel dashboard, go to your project settings
-   - Add environment variable: `MAKE_WEBHOOK_URL` with your webhook URL
+   - Add environment variable: `MAKE_WEBHOOK_URL` with your webhook URL-URL
 
 3. **Deploy:**
    - Vercel will automatically build and deploy
