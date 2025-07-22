@@ -22,8 +22,5 @@
       "src": "/(.*)",
       "dest": "/client/dist/$1"
     }
-  ],
-  "env": {
-    "MAKE_WEBHOOK_URL": "@make_webhook_url"
-  }
+  ]
 }
